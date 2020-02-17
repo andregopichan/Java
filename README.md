@@ -1,2 +1,2 @@
-# Java
-All my Java projects I have done, so far simple code
+# My-Java-Projects
+These are all the projects in the java coding language I have done so far.
